@@ -1,0 +1,8 @@
+- multiplica quaisquer números inteiros positivos;
+- a multiplicação só ira funcionar se o quociente for menor ou igual a 255;
+- no endereço 128 deve colocar o primeiro fator;
+- no endereço 129 deve colocar o segundo fator;
+- o resultado é mostrado no AC.
+
+Para fazer uma nova multiplicação, basta zerar o PC e colocar os novos valores nos endereços 128 e 129
+e em seguida executar.

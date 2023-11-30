@@ -1,0 +1,8 @@
+- o dividendo e o divisor devem ser inteiros e positivos menores ou iguais a 255;
+- a divisão só irá funcionar caso o quociente seja um inteiro e positivo menor ou igual a 255;
+- no endereço 128 deve colocar o dividendo;
+- no endereço 129 deve colocar o divisor;
+- o resultado é mostrado no AC.
+
+Para fazer uma nova divisão, basta zerar o PC e colocar os novos valores nos endereços 128 e 129
+e em seguida executar.
